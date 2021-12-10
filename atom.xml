@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhycarge.github.io/bots</id>
-    <title>Gridea</title>
-    <updated>2021-12-10T02:29:31.189Z</updated>
+    <title>ZHYCarge bots</title>
+    <updated>2021-12-10T02:34:52.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhycarge.github.io/bots"/>
     <link rel="self" href="https://zhycarge.github.io/bots/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>一个傻傻的人工智能搭建</subtitle>
     <logo>https://zhycarge.github.io/bots/images/avatar.png</logo>
     <icon>https://zhycarge.github.io/bots/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, ZHYCarge bots</rights>
     <entry>
         <title type="html"><![CDATA[hello world]]></title>
         <id>https://zhycarge.github.io/bots/post/hello-world/</id>
