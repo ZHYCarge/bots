@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zhycarge.github.io/bots</id>
+    <id>http://localhost:4000</id>
     <title>ZHYCarge bots</title>
-    <updated>2021-12-12T10:00:50.787Z</updated>
+    <updated>2021-12-12T10:01:19.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zhycarge.github.io/bots"/>
-    <link rel="self" href="https://zhycarge.github.io/bots/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>一个傻傻的机器人</subtitle>
-    <logo>https://zhycarge.github.io/bots/images/avatar.png</logo>
-    <icon>https://zhycarge.github.io/bots/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2021, ZHYCarge bots</rights>
     <entry>
         <title type="html"><![CDATA[开发文档]]></title>
-        <id>https://zhycarge.github.io/bots/post/kai-fa-wen-dang/</id>
-        <link href="https://zhycarge.github.io/bots/post/kai-fa-wen-dang/">
+        <id>http://localhost:4000/post/kai-fa-wen-dang/</id>
+        <link href="http://localhost:4000/post/kai-fa-wen-dang/">
         </link>
         <updated>2021-12-10T14:22:44.000Z</updated>
         <content type="html"><![CDATA[<p>在此篇文档中，将以一种索引的方式介绍小助手的编写方式以及对相关功能的实现方式，具体内容可以通过点击下面链接进行详细查询</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[使用文档]]></title>
-        <id>https://zhycarge.github.io/bots/post/cao-zuo-wen-dang/</id>
-        <link href="https://zhycarge.github.io/bots/post/cao-zuo-wen-dang/">
+        <id>http://localhost:4000/post/cao-zuo-wen-dang/</id>
+        <link href="http://localhost:4000/post/cao-zuo-wen-dang/">
         </link>
         <updated>2021-12-10T14:21:03.000Z</updated>
         <content type="html"><![CDATA[<p>在这里详细介绍了小助手的基本的使用指南，以及即将开发的功能参数，具体内容请点击相关链接进行跳转</p>
@@ -30,8 +30,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[挂个标签]]></title>
-        <id>https://zhycarge.github.io/bots/post/hello-world/</id>
-        <link href="https://zhycarge.github.io/bots/post/hello-world/">
+        <id>http://localhost:4000/post/hello-world/</id>
+        <link href="http://localhost:4000/post/hello-world/">
         </link>
         <updated>2021-12-10T01:17:03.000Z</updated>
         <summary type="html"><![CDATA[<p>别看了别看了，孩子暂时没时间写博客呜呜呜</p>
